@@ -1,7 +1,7 @@
 
 # metros
 
-Rotterdam-Den Haag [Rotterdam-The Hague], m:2_113_000, metro
+# Rotterdam-Den Haag [Rotterdam-The Hague], m:2_113_000, metro
 
 
 # cities
@@ -10,4 +10,3 @@ Amsterdam, m:1_050_000
 Rotterdam
 Den Haag|'s-Gravenhage [The Hague]
 Alkmaar   ## region: North Holland
-
